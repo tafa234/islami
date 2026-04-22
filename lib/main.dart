@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:islami/Utils/app_routes.dart';
 import 'package:islami/home/home_screen.dart';
 
-int main() {
+void main() {
   runApp(MyApp());
 }
 
